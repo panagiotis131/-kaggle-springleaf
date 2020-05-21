@@ -13,7 +13,7 @@ Code for 75th place (out of 2,225) in Kaggle Springleaf Marketing Response Chall
   - Day of Week
   - Week of Month
   - Hour of day (for one variable)
-* One-Hot Encoding for variables likely to be categorical variables
+* One-Hot Encoding for variables likely to be categorical variables.
 
 # Models
 * XGBoost
